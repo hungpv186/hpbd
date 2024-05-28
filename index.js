@@ -4,7 +4,7 @@ const mainContentLetter = "Chúc mừng sinh nhật em yêu! Anh mong rằng ng�
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
-imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
+imgStart.src = "./img/hihi.jpg";
 
 // Gắn 1 link ảnh bất kì
 let imgLetter = document.querySelector(".img");
